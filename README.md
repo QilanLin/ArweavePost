@@ -1,9 +1,7 @@
 ## Permanent Posting System Based on Arweave Network
 <h1 align="center">
   <img src="https://github.com/qilanlin/ArweavePost/blob/main/Screenshot.png" width="1000">
- 
-</h1>" width="1000">
- 
+
 </h1>
 
 This is a posting system where content can be posted to Arweave network and stored permanently.
