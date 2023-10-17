@@ -1,4 +1,10 @@
 ## Permanent Posting System Based on Arweave Network
+<h1 align="center">
+  <img src="https://github.com/qilanlin/ArweavePost/blob/main/Screenshot.png" width="1000">
+ 
+</h1>" width="1000">
+ 
+</h1>
 
 This is a posting system where content can be posted to Arweave network and stored permanently.
 
@@ -20,7 +26,7 @@ Built on 19 Nov 2022 at Bush House, London.
 
 - Download the ZIP file on this webpage and unzip the file into a folder
 
-- Get into the folder in the terminal
+- Go to the folder in Terminal
   
   ```
   cd path/of/the/folder
